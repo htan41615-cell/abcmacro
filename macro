@@ -560,4 +560,3 @@ pcall(function()
         saveSettings(Main, ClickZoneBox, Tgl)
     end)
 end)
-
